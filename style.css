@@ -5,3 +5,19 @@ audio{
     width: 100ch;
 
 }
+
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    
+    text-align: center;
+      }
+.download_image > a > img{
+    height: 150 px;
+    width: 400px;
+}
+
+.download_image{
+    display:block;
+}
